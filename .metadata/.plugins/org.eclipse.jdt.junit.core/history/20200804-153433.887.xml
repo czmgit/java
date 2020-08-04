@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CrowdTest.testlog" project="atcrowdfunding02-admin-webui" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testcase name="testlog" classname="com.atguigu.crowd.test.CrowdTest" time="0.0"/>
+</testrun>

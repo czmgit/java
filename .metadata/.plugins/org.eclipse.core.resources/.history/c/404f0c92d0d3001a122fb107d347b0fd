@@ -1,0 +1,17 @@
+
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.czm.crowd</groupId>
+    <artifactId>atcrowdfunding01-admin-parent</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <artifactId>atcrowdfunding02-admin-webui</artifactId>
+  <packaging>war</packaging>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.czm.crowd</groupId>
+  		<artifactId>atcrowdfunding03-admin-component</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
+</project>
